@@ -17,21 +17,6 @@ Looking forward to the coorperation and questions.
 
 # Acknowledgement
 
-A part of code were modified from the following site.
+A part of code were modified from repos in the this list: https://github.com/stars/lifeodyssey/lists/aquatic-remote-sensing.
 Thanks for their contribution to ocean color remote sensing.
 
-https://github.com/ocean-slang/Coastal-OC-Remote-Sensing
-
-https://github.com/doclements/OC_shortcourse
-
-https://github.com/ocean-slang/SeaDAS
-
-https://github.com/tonyduan/mdn
-
-https://github.com/david-salac/Fast-SZA-and-SAA-computation
-
-https://github.com/npec/5th-NOWPAP-Training-Course-on-Remote-Sensing-Data-Analysis
-
-https://github.com/acolite/acolite
-
-https://github.com/Elgyii/POD-TSP
